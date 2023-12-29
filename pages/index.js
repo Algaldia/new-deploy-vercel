@@ -1,7 +1,7 @@
 function Home() {
     return (
         <h1>
-            Teste
+            Teste 2
         </h1>
     );
 }
